@@ -1,4 +1,4 @@
-# MapReduce-Java-Haddop
+# MapReduce-Java-Haodop
 
 ```sh
 rm -f *.class
